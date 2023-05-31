@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.icons {
+  height: 30px;
+  width: 30px;
+}
+
+.icons-cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.course-cont {
+  margin: 15px;
+}
